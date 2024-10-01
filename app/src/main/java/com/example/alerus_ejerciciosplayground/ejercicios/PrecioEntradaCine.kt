@@ -21,5 +21,3 @@ fun ticketPrice(age: Int, isMonday: Boolean) = when (age) {
     in 61..100 -> 20
     else -> -1
 }
-
-
